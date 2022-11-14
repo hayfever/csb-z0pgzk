@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://hayfever.github.io/csb-z0pgzk/static/css/main.bed9c162.chunk.css",
+    "main.js": "https://hayfever.github.io/csb-z0pgzk/static/js/main.bc9aa1f3.chunk.js",
+    "main.js.map": "https://hayfever.github.io/csb-z0pgzk/static/js/main.bc9aa1f3.chunk.js.map",
+    "runtime-main.js": "https://hayfever.github.io/csb-z0pgzk/static/js/runtime-main.6516d7e9.js",
+    "runtime-main.js.map": "https://hayfever.github.io/csb-z0pgzk/static/js/runtime-main.6516d7e9.js.map",
+    "static/css/2.d454b233.chunk.css": "https://hayfever.github.io/csb-z0pgzk/static/css/2.d454b233.chunk.css",
+    "static/js/2.3632323a.chunk.js": "https://hayfever.github.io/csb-z0pgzk/static/js/2.3632323a.chunk.js",
+    "static/js/2.3632323a.chunk.js.map": "https://hayfever.github.io/csb-z0pgzk/static/js/2.3632323a.chunk.js.map",
+    "index.html": "https://hayfever.github.io/csb-z0pgzk/index.html",
+    "static/css/2.d454b233.chunk.css.map": "https://hayfever.github.io/csb-z0pgzk/static/css/2.d454b233.chunk.css.map",
+    "static/css/main.bed9c162.chunk.css.map": "https://hayfever.github.io/csb-z0pgzk/static/css/main.bed9c162.chunk.css.map",
+    "static/js/2.3632323a.chunk.js.LICENSE.txt": "https://hayfever.github.io/csb-z0pgzk/static/js/2.3632323a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6516d7e9.js",
+    "static/css/2.d454b233.chunk.css",
+    "static/js/2.3632323a.chunk.js",
+    "static/css/main.bed9c162.chunk.css",
+    "static/js/main.bc9aa1f3.chunk.js"
+  ]
+}
